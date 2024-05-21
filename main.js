@@ -32,7 +32,7 @@ function differentUser(user) {
 }
 
 console.log(oldUser);
-console.log(differentUser);
+console.log(newUser);
 
 console.log(oldUser === differentUser);
 
