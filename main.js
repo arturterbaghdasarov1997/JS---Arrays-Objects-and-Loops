@@ -34,7 +34,7 @@ function differentUser(user) {
 console.log(oldUser);
 console.log(newUser);
 
-console.log(oldUser === differentUser);
+console.log(oldUser === newUser);
 
 // Function for random dice game
 function rollDice() {
